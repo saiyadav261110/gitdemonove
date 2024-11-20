@@ -1,4 +1,4 @@
-a=int(input("enter the values"))
-b=int(input("enter the values"))
+a=int(input("enter the number"))
+b=int(input("enter the number"))
 c=a+b
 print(c)
